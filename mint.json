@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "microdot docs",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://tr.rbxcdn.com/a038a9c0198631c0152d83d6ad65347e/150/150/Image/Webp",
+    "light": "https://tr.rbxcdn.com/a038a9c0198631c0152d83d6ad65347e/150/150/Image/Webp"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://tr.rbxcdn.com/a038a9c0198631c0152d83d6ad65347e/150/150/Image/Webp",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
