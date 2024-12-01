@@ -33,7 +33,26 @@
   ],
   "navigation": [
     {
-      "group": "Getting started",
+      "group": "Get started",
+      "pages": [
+        "introduction",
+        "quickstart",
+        "development"
+      ]
+    },
+
+          {
+      "group": "Workspace configuration",
+      "pages": [
+        "introduction",
+        "quickstart",
+        "development"
+      ]
+    },
+
+
+        {
+      "group": "Our features",
       "pages": [
         "introduction",
         "quickstart",
@@ -54,6 +73,13 @@
         "api-reference/endpoint/delete"
       ]
     }
+  ],
+  
+      
+    
+
+    
+  
   ],
   "footerSocials": {
     "discord": "https://hexly.xyz/discord"
