@@ -7,12 +7,12 @@
   },
   "favicon": "https://hexly.xyz/favicon.png",
   "colors": {
-    "primary": "#FFD700",  // Gold shade of yellow
-    "light": "#FFEB3B",    // Lighter yellow
-    "dark": "#FF9800",     // Darker shade of yellow
+    "primary": "#FFD700",
+    "light": "#FFEB3B",
+    "dark": "#FF9800",
     "anchors": {
-      "from": "#FF9800",   // Darker yellow for anchor start
-      "to": "#FFEB3B"      // Lighter yellow for anchor end
+      "from": "#FF9800",
+      "to": "#FFEB3B"
     }
   },
   "topbarLinks": [
