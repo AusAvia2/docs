@@ -41,7 +41,7 @@
       ]
     },
 
-          {
+   {
       "group": "Workspace configuration",
       "pages": [
         "introduction",
@@ -49,9 +49,7 @@
         "development"
       ]
     },
-
-
-        {
+    {
       "group": "Our features",
       "pages": [
         "introduction",
@@ -73,12 +71,6 @@
         "api-reference/endpoint/delete"
       ]
     }
-  ],
-  
-      
-    
-
-    
   
   ],
   "footerSocials": {
