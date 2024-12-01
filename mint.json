@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Hexly Docs",
   "logo": {
-    "dark": "https://tr.rbxcdn.com/a038a9c0198631c0152d83d6ad65347e/150/150/Image/Webp",
-    "light": "https://tr.rbxcdn.com/a038a9c0198631c0152d83d6ad65347e/150/150/Image/Webp"
+    "dark": "https://hexly.xyz/favicon.png",
+    "light": "https://hexly.xyz/favicon.png"
   },
-  "favicon": "https://tr.rbxcdn.com/a038a9c0198631c0152d83d6ad65347e/150/150/Image/Webp",
+  "favicon": "https://hexly.xyz/favicon.png",
   "colors": {
     "primary": "#FFD700",  // Gold shade of yellow
     "light": "#FFEB3B",    // Lighter yellow
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@microdot.store"
+      "url": "mailto:help@hexly.xyz"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://panel.microdot.store"
+    "url": "https://hexly.xyz"
   },
   "tabs": [
     {
@@ -56,6 +56,6 @@
     }
   ],
   "footerSocials": {
-    "discord": "https://discord.gg/sXZDXPBy"
+    "discord": "https://hexly.xyz/discord"
   }
 }
